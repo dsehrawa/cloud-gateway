@@ -3,10 +3,10 @@ package com.dailycodebuffer.cloudgateway;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class CloudGatewayApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
